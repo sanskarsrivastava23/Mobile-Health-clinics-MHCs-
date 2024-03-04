@@ -12,8 +12,11 @@ FURTHER EXPANSION OF THE IDEA
 
 FEATURES
 -Accessibility
+
 -Affordability
+
 -Preventive Care
+
 -Technology Integration
 
 -The AI model would be installed in our MHCs also.
